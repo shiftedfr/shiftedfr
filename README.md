@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**shiftedfr/shiftedfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I’m a passionate developer who enjoys coding innovative applications, including cheats, spoofers, protection systems, authentication frameworks, Windows drivers, etc.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Projects
+
+
+
+ - [Current Project (MintyCheats)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+Projects i made in the past, 
+- Varium.wtf
+- Avhook.xyz
+- Visioncheatz.xyz
+- Some other, a long time ago.
+
+
+## 🛠 Skills
+- C, C#, C++, Java, HTML, CSS, ImGui, SQL, PHP, WinAPI enthusiast.
+
+
+## Contact me
+
+Contact me on signal -> "@shiftedfr.1337"
+
+Contact me on telegram -> "@drownedssh"
+
+Contact me on discord -> "shiftedfr"
