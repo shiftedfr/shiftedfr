@@ -20,7 +20,7 @@ Projects i made in the past,
 
 
 ## 🛠 Skills
-- C, C#, C++, Java, HTML, CSS, ImGui, SQL, PHP, WinAPI enthusiast.
+- C, C#, C++, Java, HTML, CSS, ImGui, SQL, PHP, (Game Hacking), Reverse Engineering, WinAPI enthusiast.
 
 
 ## Contact me
