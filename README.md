@@ -1,22 +1,21 @@
 
 ## 🚀 About Me
 I’m a passionate developer who enjoys coding innovative applications, including cheats, spoofers, protection systems, authentication frameworks, Windows drivers, etc.
-
-
-
+Coding since 2017 / Developing security and system-level software.
 
 
 ## Projects
 
 
 
- - [Current Project (MintyCheats)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Current Project (ArcSoftware)](https://arcsoftware.biz/)
    
 Projects i made in the past, 
+- MintyCheats.com
 - Varium.wtf
 - Avhook.xyz
 - Visioncheatz.xyz
-- Some other, a long time ago.
+- Some other, a (very) long time ago (2019 - 2023).
 
 
 ## 🛠 Skills
