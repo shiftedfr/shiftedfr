@@ -1,7 +1,7 @@
 <h1 align="center"> Shiftedfr </h1>
 
 <p align="center">
-  <b>Crafting cheats, spoofers, protection systems & low-level software since 2017.</b><br>
+  <b>Cheats, spoofers, protection systems & low & high - level software, since 2017.</b><br>
   Focused on performance, security, and precision.
 </p>
 
